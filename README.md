@@ -5,10 +5,10 @@
 </head>
 <body style="text-align:center; font-family:sans-serif;">
 
-  <h1>🚀 My First Website</h1>
+  <h1>shu My First Website</h1>
   <p>This is actually live on the internet</p>
 
-  <button onclick="alert('That worked 😄')">Click me</button>
+  <button onclick="alert('Saykom lehhh')">Click me</button>
 
 </body>
 </html>
